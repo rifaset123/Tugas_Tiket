@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tiket Kereta </string>
+    <string name="sambutan1">Selamat Datang,</string>
+    <string name="sambutan2">Silahkan lengkapi data berikut.</string>
+    <string name="tujuan">Tujuan :</string>
+    <string name="tanggal">Tanggal :</string>
+    <string name="waktu">Waktu :</string>
+    <string name="pesan_sekarang">Pesan Sekarang !</string>
+    <string name="jenis_tiker">Jenis Tiket :</string>
+    <array name="provinces">
+        <item>Yogyakarta</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Madiun</item>
+        <item>Bogor</item>
+        <item>Bali</item>
+        <item>Banyuwangi</item>
+        <item>Semarang</item>
+        <item>Ponorogo</item>
+    </array>
+</resources>

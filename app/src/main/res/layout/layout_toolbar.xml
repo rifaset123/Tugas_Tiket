@@ -1,0 +1,26 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/biru"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="30sp"/>
+    <TextView
+        android:id="@+id/judul2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/inter_medium"
+        android:layout_below="@id/judul"
+        android:text="ini nanti tiketnya"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:paddingBottom="20dp"
+        android:textSize="20sp"/>
+</RelativeLayout>
